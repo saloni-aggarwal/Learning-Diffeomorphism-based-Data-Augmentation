@@ -11,5 +11,7 @@ In following milestone presentations you can find following information:
 3) Milestone 2 - A short overview of what my project, how we build masks of tumors, and sample pairs of those masks using KNN, and then a short description of what VAE model is and layers of my model, and this presentation also includes sample results.
 
 train_vanilla.py -> Trains the model for augmenting dataset
+
 Vanilla_VAE.py -> VAE model used, defined it's layers
+
 Constants.py -> Defined constants used all the files
