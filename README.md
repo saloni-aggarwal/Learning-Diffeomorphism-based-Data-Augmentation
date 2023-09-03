@@ -10,3 +10,4 @@ In following milestone presentations you can find following information:
 2) Milestone 1 - Overview of the project and example of diffeomorphism, Architecture of the project, Information on the dataset that contains Kidney scans of 300 patients1, and also converted 3D scans to 2D images.
 3) Milestone 2 - A short overview of what my project, how we build masks of tumors, and sample pairs of those masks using KNN, and then a short description of what VAE model is and layers of my model, and this presentation also includes sample results.
 
+train_vanilla.py -> Trains the model for augmenting dataset
